@@ -1,0 +1,237 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KSP-HP-24-DELUXE",
+    "name": "KSP-HP-24-DELUXE",
+    "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
+    "author": "aerod",
+    "version": "2024.06.03.05.19.48",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.12",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "AutoAGL"
+        },
+        {
+            "name": "B9-PWings-Fork"
+        },
+        {
+            "name": "Benjee10Suits"
+        },
+        {
+            "name": "BetterBurnTime"
+        },
+        {
+            "name": "Chatterer"
+        },
+        {
+            "name": "ChattererExtended"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ContractConfigurator-CleverSats"
+        },
+        {
+            "name": "ContractConfigurator-ExplorationPlus"
+        },
+        {
+            "name": "ContractConfigurator-FieldResearch"
+        },
+        {
+            "name": "ContractConfigurator-KerbalAcademy"
+        },
+        {
+            "name": "ContractConfigurator-KerbinSpaceStation"
+        },
+        {
+            "name": "ContractConfigurator-PlanesWithPurposes"
+        },
+        {
+            "name": "ContractConfigurator-Tourism"
+        },
+        {
+            "name": "DE-IVAExtension"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "DraggableControls"
+        },
+        {
+            "name": "EngineLightRelit"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "FreeIva"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "KSAIVAUpgrade"
+        },
+        {
+            "name": "MK12PodIVAReplacementbyASET"
+        },
+        {
+            "name": "Mk1CockpitIVAReplbyASET"
+        },
+        {
+            "name": "Mk1LanderCanIVAReplbyASET"
+        },
+        {
+            "name": "Mk3Expansion"
+        },
+        {
+            "name": "NavballDockAlignIndCE"
+        },
+        {
+            "name": "OPMAllinOneKSPediaDeltaVMap"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "Parallax-OuterPlanetsMod"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ProceduralFairings-ForEverything"
+        },
+        {
+            "name": "ReentryParticleEffect"
+        },
+        {
+            "name": "ResearchAdvancementDivision"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "Reviva"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Shabby"
+        },
+        {
+            "name": "Shaddy"
+        },
+        {
+            "name": "ShipEffectsContinued"
+        },
+        {
+            "name": "Spectra"
+        },
+        {
+            "name": "Spectra-EVE64kKerbinClouds"
+        },
+        {
+            "name": "Spectra-EVEKerbinLaytheSnow"
+        },
+        {
+            "name": "Spectra-EVEMinmusGeysers"
+        },
+        {
+            "name": "Spectra-Scatterer"
+        },
+        {
+            "name": "Spectra-ScattererJoolShineOnLaythe"
+        },
+        {
+            "name": "Spectra-ScattererMinmus"
+        },
+        {
+            "name": "Spectra-ScattererVibrantSunsets"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "StationPartsExpansionRedux-IVAs"
+        },
+        {
+            "name": "StockAlarmClockDisabler"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "Trajectories"
+        },
+        {
+            "name": "TransferWindowPlanner"
+        },
+        {
+            "name": "TrimIndicators"
+        },
+        {
+            "name": "TUFX"
+        },
+        {
+            "name": "TweakableEverythingCont"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "TweakScale-Redist"
+        },
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "VesselView-UI-RasterPropMonitor"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "WaterfallExtensions"
+        },
+        {
+            "name": "WaterfallRestock"
+        },
+        {
+            "name": "WaypointManager"
+        },
+        {
+            "name": "WindowShineTR"
+        },
+        {
+            "name": "Wwwwwwwww"
+        }
+    ],
+    "release_date": "2024-06-03T05:19:48.839489Z",
+    "kind": "metapackage"
+}

@@ -1,0 +1,93 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KSP-HP-24-BASIC",
+    "name": "KSP-HP-24-BASIC",
+    "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
+    "author": "Venusgate",
+    "version": "2024.06.03.01.23.01",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.12",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "B9-PWings-Fork"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ContractConfigurator-CleverSats"
+        },
+        {
+            "name": "ContractConfigurator-ExplorationPlus"
+        },
+        {
+            "name": "ContractConfigurator-FieldResearch"
+        },
+        {
+            "name": "ContractConfigurator-KerbalAcademy"
+        },
+        {
+            "name": "ContractConfigurator-KerbinSpaceStation"
+        },
+        {
+            "name": "ContractConfigurator-PlanesWithPurposes"
+        },
+        {
+            "name": "ContractConfigurator-Tourism"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "Mk3Expansion"
+        },
+        {
+            "name": "OPMAllinOneKSPediaDeltaVMap"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ProceduralFairings-ForEverything"
+        },
+        {
+            "name": "ResearchAdvancementDivision"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "StockAlarmClockDisabler"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "TweakScale-Redist"
+        }
+    ],
+    "release_date": "2024-06-03T01:23:01.2120883Z",
+    "kind": "metapackage"
+}
