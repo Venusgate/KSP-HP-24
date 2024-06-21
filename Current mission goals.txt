@@ -1,0 +1,3 @@
+Leave your explanations/ plans for your missions here!:
+
+I've put a rover on the Mun, and we have a contract to scan one of the surface features. If anyone wants to drive around and find it (I wasn't able to in time because I kept getting it mixed in with the Parallax features) then that's something to do. I've also put some relay sats in orbit, and I've constructed (but not launched) a new module for the space station in LKO.
